@@ -34,10 +34,23 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=null-sect&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Blogs
+## Linkes
+
+### SNS
+
+- [Twitter](https://twitter.com/null_sect)
+- [Instagram](https://www.instagram.com/null.sect/)
+
+### Blogs
 
 - [Qiita](https://qiita.com/null_sect)
 - [Zenn](https://zenn.dev/null_sect)
+
+### Git
+
+- [GitHub](https://github.com/null-sect)
+- [GitLab](https://gitlab.com/null-sect)
+- [Gitea](https://gitea.com/null-sect)
 
 ## Contact Me
 

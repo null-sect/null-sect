@@ -43,7 +43,7 @@
 
 ### Blogs
 
-- [Qiita](https://qiita.com/null_sect)
+- [Qiita](https://qiita.com/null-sect)
 - [Zenn](https://zenn.dev/null_sect)
 
 ### Git

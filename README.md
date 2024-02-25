@@ -24,7 +24,8 @@
 
 ## My Projects
 
-- [Website](https://null-sect.github.io/) [WIP]
+- [Website](https://null-sect.com/) [WIP]
+- [Blog](https://blog.null-sect.com)
 
 ## My Stats
 

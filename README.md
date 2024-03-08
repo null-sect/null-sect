@@ -1,16 +1,17 @@
 # Moi! I'm Q!
 
-## I'm a ...
+<div align="right">
+![](https://komarev.com/ghpvc/?username=null-sect&color=blueviolet&style=flat-square&)
+</div>
 
-- 15歳 (2008/12/02)
-- 高専生 (2024/04~)
-- プログラミング初心者
+## ❯ whoami
 
-## I'm interested in ...
+Hi, I'm **Q (null-sect)**!
+developing some interesting codes.
 
-- プログラミング
-- 数理解析
-- AI / 機械学習
+## echo $LANG
+
+🇯🇵 ja_JP.F8  
 
 ## I'm currently learning ...
 
@@ -56,3 +57,5 @@
 - [Twitter](https://twitter.com/null_sect)
 - [Mail](mailto:empqdt@gmail.com)
 - [Instagram](https://www.instagram.com/null.sect/)
+
+</div>

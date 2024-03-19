@@ -44,7 +44,7 @@ For Mobile
 [![trophy](https://github-profile-trophy.vercel.app/?username=null-sect&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 [![Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=null-sect&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null-sect&layout=compact&theme=dark&exclude_repo=old-blog&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null-sect&layout=compact&theme=dark&exclude_repo=old-blog&size_weight=0.5&count_weight=0.5＆langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ❯ cat CREDITS

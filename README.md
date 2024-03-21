@@ -1,8 +1,8 @@
-# Moi! I'm Q!
+# Moi! I'm shirosera!
 
 ## ❯ whoami
 
-Hi, I'm **Q (null-sect)**!  
+Hi, I'm **shirosera (cella_shiro)**!  
 developing something.
 
 ## ❯ echo $LANG
@@ -35,16 +35,16 @@ For Mobile
 
 ## ❯ ls -l ~/links
 
-- `lr--r--r--` `q` [❌ X(Twitter)](https://twitter.com/null-sect)
-- `lr--r--r--` `q` [🖋️ Blog](https://blog.null-sect.com)
-- `lr--r--r--` `q` [📷 Instagram](https://instagram.com/null.sect)
+- `lr--r--r--` `cellashiro` [❌ X(Twitter)](https://twitter.com/null-sect)
+- `lr--r--r--` `cellashiro` [🖋️ Blog]()
+- `lr--r--r--` `cellashiro` [📷 Instagram](https://instagram.com/null.sect)
 
 ## ❯ gh stat
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=null-sect&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shirosera&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
-[![Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=null-sect&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null-sect&layout=compact&theme=dark&exclude_repo=old-blog&size_weight=0.5&langs_count=10&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=shirosera&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirosera&layout=compact&theme=dark&exclude_repo=old-blog&size_weight=0.5&langs_count=10&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ❯ cat CREDITS

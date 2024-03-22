@@ -35,9 +35,9 @@ For Mobile
 
 ## ❯ ls -l ~/links
 
-- `lr--r--r--` `cellashiro` [❌ X(Twitter)](https://twitter.com/cella_shiro)
-- `lr--r--r--` `cellashiro` [🖋️ Blog]()
-- `lr--r--r--` `cellashiro` [📷 Instagram](https://instagram.com/)
+- `lr--r--r--` `cella` [❌ X(Twitter)](https://twitter.com/cella_shiro)
+- `lr--r--r--` `cella` [🖋️ Blog]()
+- `lr--r--r--` `cella` [📷 Instagram](https://instagram.com/)
 
 ## ❯ gh stat
 

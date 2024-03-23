@@ -40,12 +40,13 @@ For Mobile
 - `lr--r--r--` `cella` [📷 Instagram](https://instagram.com/)
 
 ## ❯ gh stat
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shirosera&theme=dark)](https://git.io/streak-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=shirosera&theme=onedar)](https://github.com/ryo-ma/github-profile-trophy)
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shirosera&theme=algolia&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirosera&layout=compact&theme=algolia&exclude_repo=old-blog&size_weight=0.5&langs_count=10&count_weight=0.5&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shirosera&theme=dark)](https://git.io/streak-stats)
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shirosera&theme=algolia&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirosera&layout=compact&theme=algolia&exclude_repo=old-blog&size_weight=0.5&langs_count=20&count_weight=0.5&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shirosera&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ❯ cat CREDITS

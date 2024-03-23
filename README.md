@@ -40,6 +40,7 @@ For Mobile
 - `lr--r--r--` `cella` [📷 Instagram](https://instagram.com/)
 
 ## ❯ gh stat
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shirosera&theme=dark)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shirosera&theme=onedar)](https://github.com/ryo-ma/github-profile-trophy)
   

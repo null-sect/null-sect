@@ -3,7 +3,7 @@
 ## ❯ whoami
 
 Hi, I'm **shirosera (cella_shiro)**!  
-developing something.
+developing low level.
 
 ## ❯ echo $LANG
 

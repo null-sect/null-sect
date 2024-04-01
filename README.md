@@ -55,4 +55,3 @@ For Mobile
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges): Badges for your personal developer branding, profile, and projects.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): ⚡ Dynamically generated stats for your github readmes
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy): 🏆 Add dynamically generated GitHub Stat Trophies on your readme
-
